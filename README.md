@@ -1,7 +1,7 @@
 
 # Tic-Tac-Amigo
 
-Group4 of the BNTA mini project to model a game of tic tac toe. Our game comes with both a PVP and vsComputer mode available!
+Group4 of the BNTA mini project to model a game of tic-tac-toe. Our game comes with both a PVP and vsComputer mode available!
 
 By Aaron, Michelle, Rosa and Will.
 
@@ -10,7 +10,7 @@ By Aaron, Michelle, Rosa and Will.
 ## Project Description
 
 ### MVP Task
-The game you will model is tic tac toe, AKA noughts and crosses. Your app will need to:
+The game you will model is tic-tac-toe, AKA noughts and crosses. Your app will need to:
 
 - Have a recognisable layout
 - Allow two players to take alternate turns
